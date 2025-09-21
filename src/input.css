@@ -1,2 +1,21 @@
 @import "tailwindcss";
 
+
+@theme {
+  --siniy: #0862ee;
+  --chernyy: #202020;
+  --seryy: #72798c;
+  --zelenyy-svetlyy: #a7e9be;
+  --sirenevyy-svetlyy: #cad2ff;
+  --siniy-svetlyy: #cfe5ff;
+  --belyy: #fff;
+  --font-onest: "Onest", sans-serif;
+  --font-mono: "Roboto Mono", monospace;
+  --third-slab: "Roboto Slab", serif;
+}
+
+.container1 {
+    max-width: 1440px;
+    width: 90%;
+    margin: 0 auto;
+}
