@@ -19,3 +19,6 @@
     width: 90%;
     margin: 0 auto;
 }
+.hover-custom-shadow:hover {
+  box-shadow: 22px 22px 16px -15px rgba(0,68,173,0.29);
+}
